@@ -1,0 +1,46 @@
+/* VARIABLES */
+
+:root {
+  --col-a: #d4d4d4;
+  --col-1: #ffffff;
+  --col-2: #132962;
+  --col-3: #102355;
+  --col-link: #b9c0ff;
+  --col-hlink: #ffffff;
+  --col-shadow: #0d1e4a;
+}
+
+/* OTHER */
+
+.w-col-warn {
+  background-color: #fff6a1;
+  color: #000000;
+}
+
+.w-col-accent {
+  background-color: var(--col-a);
+  color: #000;
+}
+
+.w-darkened-3 {
+  background-color: rgba(0,0,0,0.3);
+}
+
+.w-darkened-5 {
+  background-color: rgba(0,0,0,0.5);
+}
+
+.w-darkened-7 {
+  background-color: rgba(0,0,0,0.7);
+}
+
+/* TEXT COLORS */
+
+.w-tcol-black {
+  color: #000;
+}
+
+.w-tcol-white {
+  color: #fff;
+}
+
