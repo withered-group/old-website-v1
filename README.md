@@ -1,2 +1,2 @@
-# Withered Website Code (v2)
-Outdated.
+# Withered Website Code (v1)
+Outdated, please see v2.
